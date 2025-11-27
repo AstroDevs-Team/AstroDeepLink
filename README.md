@@ -12,7 +12,7 @@ configuration, normalization, and auth guards.
 </a>
 
 <h2>
-<a href="https://youtu.be/HOse25HZyLc?si=zpxclXe6n9fSWhZ7">
+<a href="https://youtu.be/8VmH9i5ecmM">
  Watch The Full Tutorial From Here
 </a>
 </h2>
